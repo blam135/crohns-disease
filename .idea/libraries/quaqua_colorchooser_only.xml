@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quaqua-colorchooser-only">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependency_jars/MacOSXOnly/quaqua-colorchooser-only.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="dependency_jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/dependency_jars/itext-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dependency_jars/j3d-jre.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dependency_jars/jcommon-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dependency_jars/jfreechart-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dependency_jars/jmf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
